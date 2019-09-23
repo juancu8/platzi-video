@@ -1,0 +1,8 @@
+$body-background-color: red;
+$body-color: white;
+
+body {
+    margin: 0;
+    background-color: $body-background-color;
+    color: $body-color;
+}
