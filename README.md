@@ -3,8 +3,8 @@ Project from React course on Platzi.
 
 ### Uses
 
-React
-Babel
-Sass
-Eslint
-Webpack
+* React
+* Babel
+* Sass
+* Eslint
+* Webpack
