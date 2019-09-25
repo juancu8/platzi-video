@@ -1,8 +1,11 @@
-$body-background-color: red;
-$body-color: white;
+$main-background: #8f57fd;
 
 body {
     margin: 0;
-    background-color: $body-background-color;
-    color: $body-color;
+    font-family: 'Muli', sans-serif;
+    background: $main-background;
+  }
+  
+* {
+    box-sizing: border-box;
 }
