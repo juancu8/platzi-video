@@ -8,3 +8,9 @@ Project from React course on Platzi.
 * Sass
 * Eslint
 * Webpack
+
+- Run dev mode
+
+``` bash
+  npm run start
+```
