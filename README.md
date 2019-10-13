@@ -8,6 +8,7 @@ Project from React course on Platzi.
 * Sass
 * Eslint
 * Webpack
+* [file-loader](https://www.npmjs.com/package/file-loader)
 
 - Run dev mode
 

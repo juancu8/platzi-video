@@ -13,8 +13,30 @@ const App = () => (
     <Header />
     <Search />
 
-    <Categories>
+    <Categories title='My list'>
       <Carrousel>
+        <CarrouselItem />
+        <CarrouselItem />
+        <CarrouselItem />
+        <CarrouselItem />
+        <CarrouselItem />
+      </Carrousel>
+    </Categories>
+
+    <Categories title='Popular'>
+      <Carrousel>
+        <CarrouselItem />
+        <CarrouselItem />
+        <CarrouselItem />
+        <CarrouselItem />
+        <CarrouselItem />
+      </Carrousel>
+    </Categories>
+
+    <Categories title='New'>
+      <Carrousel>
+        <CarrouselItem />
+        <CarrouselItem />
         <CarrouselItem />
         <CarrouselItem />
         <CarrouselItem />
